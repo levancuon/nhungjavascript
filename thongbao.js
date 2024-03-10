@@ -1,0 +1,3 @@
+function showtime() {
+    alert('hello');
+}
